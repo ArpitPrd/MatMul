@@ -15,6 +15,7 @@ We then will be able to reduce the order of matrix multiplication by an order O(
 - We considered only 2 x 2 matrices
 - MSE Loss achieved so far is 0.044
 - Therefore all the elemnets of the matrices differ from the actual value only by 0.2
+- t1 = [[1, 1], [1, 1]], t1 @ t2 = (pred) [[2.4431, 2.5671], [3.4695, 3.4248]]
 
 ## Vision
 
