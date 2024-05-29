@@ -14,6 +14,7 @@ We then will be able to reduce the order of matrix multiplication by an order O(
 - Integers are limited to 1, 2, 3
 - We considered only 2 x 2 matrices
 - MSE Loss achieved so far is 0.044
+- Therefore all the elemnets of the matrices differ from the actual value only by 0.2
 
 ## Vision
 
